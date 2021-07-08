@@ -1,0 +1,12 @@
+125            ABLE
+336       ABUNDANCE
+338        ABUNDANT
+438       ACCLAIMED
+477      ACCOMPLISH
+            ...    
+85238           WIN
+85360        WINNER
+85361       WINNERS
+85362       WINNING
+85897        WORTHY
+Name: Word, Length: 354, dtype: object

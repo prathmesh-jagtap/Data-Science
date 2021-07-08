@@ -1,0 +1,12 @@
+9             ABANDON
+10          ABANDONED
+11         ABANDONING
+12        ABANDONMENT
+13       ABANDONMENTS
+             ...     
+86035      WRONGDOING
+86036     WRONGDOINGS
+86040        WRONGFUL
+86041      WRONGFULLY
+86049         WRONGLY
+Name: Word, Length: 2355, dtype: object
